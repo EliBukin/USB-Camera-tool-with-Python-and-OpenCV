@@ -1,0 +1,12 @@
+path_vars:
+  dest_folder: /home/pi/Desktop/stmp/
+config:
+  interval: 15
+camera_parameters:
+  fps: 30
+  width: 1280
+  height: 720
+  camera_number: 1
+development:
+  percentage: 20
+  folder: /home/pi/Desktop/stmp/
